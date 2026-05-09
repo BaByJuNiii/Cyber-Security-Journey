@@ -11,7 +11,7 @@ Currently in my **2nd Semester**, focusing on:
 ## 🎯 My Roadmap to Germany 2026
 I am documenting my journey toward pursuing an **M.Sc. in Cyber Security** at **BTU Cottbus-Senftenberg**.
 - [ ] Enrollment at UMT Lahore
-- [ ] Maintain CGPA 3.0+
+- [ ] Maintain CGPA 3.3+
 - [ ] Build 5 Core Security Projects
 
 ## 🛠️ Projects & Lab Work
