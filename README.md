@@ -1,7 +1,7 @@
 # 🛡️ Cyber-Security-Journey
 > **"Securing the digital frontier, one packet at a time."**
 
-Hello everyone! I'm **Junaid Sheikh**, a Cybersecurity student at **UMT Lahore** (Class of 2026). I am passionate about network security, ethical hacking, and building a safer digital environment.
+Hello everyone! I'm **Junaid Sheikh**, a Cybersecurity student at **UMT Lahore** (Class of 2025). I am passionate about network security, ethical hacking, and building a safer digital environment.
 
 ## 🎓 Academic Focus (2025-2028)
 Currently in my **2nd Semester**, focusing on:
@@ -16,7 +16,8 @@ I am documenting my journey toward pursuing an **M.Sc. in Cyber Security** at **
 
 ## 🛠️ Projects & Lab Work
 *(I will be adding my university lab tasks and personal scripts here!)*
-- **Project 1:** [Coming Soon]
+- **Project 1:** BUBBLE- Outfit Scratcher
+https://github.com/javeria-ahmad/Bubble.git
 - **Project 2:** [Coming Soon]
 
 ---
